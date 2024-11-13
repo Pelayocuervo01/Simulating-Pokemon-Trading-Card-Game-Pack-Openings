@@ -1,0 +1,378 @@
+Card ID,Card,Pack,Rarity,First-third cards,Fourth-card,Fifth-card
+A1 001,Bulbasaur,Mewtwo,♢,0.020,,
+A1 002,Ivysaur,Mewtwo,♢♢,,0.026,0.017
+A1 003,Venusaur,Mewtwo,♢♢♢,,0.004,0.014
+A1 004,Venusaur ex,Mewtwo,♢♢♢♢,,0.003,0.013
+A1 005,Caterpie,Pikachu,♢,0.020,,
+A1 006,Metapod,Pikachu,♢,0.020,,
+A1 007,Butterfree,Pikachu,♢♢♢,,0.004,0.014
+A1 008,Weedle,Mewtwo,♢,0.020,,
+A1 009,Kakuna,Mewtwo,♢,0.020,,
+A1 010,Beedrill,Mewtwo,♢♢♢,,0.004,0.014
+A1 011,Oddish,Charizard,♢,0.020,,
+A1 012,Gloom,Charizard,♢♢,,0.026,0.017
+A1 013,Vileplume,Charizard,♢♢♢,,0.004,0.014
+A1 014,Paras,Pikachu,♢,0.020,,
+A1 015,Parasect,Pikachu,♢♢,,0.026,0.017
+A1 016,Venonat,Mewtwo,♢,0.020,,
+A1 017,Venomoth,Mewtwo,♢♢,,0.026,0.017
+A1 018,Bellsprout,Charizard,♢,0.020,,
+A1 019,Weepinbell,Charizard,♢♢,,0.026,0.017
+A1 020,Victreebel,Charizard,♢♢♢,,0.004,0.014
+A1 021,Exeggcute,Charizard,♢,0.020,,
+A1 022,Exeggutor,Charizard,♢♢♢,,0.004,0.014
+A1 023,Exeggutor ex,Charizard,♢♢♢♢,,0.003,0.013
+A1 024,Tangela,Charizard,♢,0.020,,
+A1 025,Scyther,Mewtwo,♢,0.020,,
+A1 026,Pinsir,Mewtwo,♢♢,,0.026,0.017
+A1 026,Pinsir,Pikachu,♢♢,,0.026,0.017
+A1 026,Pinsir,Charizard,♢♢,,0.026,0.017
+A1 027,Cottonee,Mewtwo,♢,0.020,,
+A1 027,Cottonee,Pikachu,♢,0.020,,
+A1 027,Cottonee,Charizard,♢,0.020,,
+A1 028,Whimsicott,Mewtwo,♢♢,,0.026,0.017
+A1 028,Whimsicott,Pikachu,♢♢,,0.026,0.017
+A1 028,Whimsicott,Charizard,♢♢,,0.026,0.017
+A1 029,Petilil,Mewtwo,♢,0.020,,
+A1 029,Petilil,Pikachu,♢,0.020,,
+A1 029,Petilil,Charizard,♢,0.020,,
+A1 030,Lilligant,Mewtwo,♢♢,,0.026,0.017
+A1 030,Lilligant,Pikachu,♢♢,,0.026,0.017
+A1 030,Lilligant,Charizard,♢♢,,0.026,0.017
+A1 031,Skiddo,Charizard,♢,0.020,,
+A1 032,Gogoat,Charizard,♢,0.020,,
+A1 033,Charmander,Charizard,♢,0.020,,
+A1 034,Charmeleon,Charizard,♢♢,,0.026,0.017
+A1 035,Charizard,Charizard,♢♢♢,,0.004,0.014
+A1 036,Charizard ex,Charizard,♢♢♢♢,,0.003,0.013
+A1 037,Vulpix,Charizard,♢,0.020,,
+A1 038,Ninetales,Charizard,♢♢,,0.026,0.017
+A1 039,Growlithe,Pikachu,♢,0.020,,
+A1 040,Arcanine,Pikachu,♢♢♢,,0.004,0.014
+A1 041,Arcanine ex,Pikachu,♢♢♢♢,,0.003,0.013
+A1 042,Ponyta,Mewtwo,♢,0.020,,
+A1 042,Ponyta,Pikachu,♢,0.020,,
+A1 042,Ponyta,Charizard,♢,0.020,,
+A1 043,Rapidash,Mewtwo,♢♢,,0.026,0.017
+A1 043,Rapidash,Pikachu,♢♢,,0.026,0.017
+A1 043,Rapidash,Charizard,♢♢,,0.026,0.017
+A1 044,Magmar,Charizard,♢,0.020,,
+A1 045,Flareon,Charizard,♢♢♢,,0.004,0.014
+A1 046,Moltres,Charizard,♢♢♢,,0.004,0.014
+A1 047,Moltres ex,Charizard,♢♢♢♢,,0.003,0.013
+A1 048,Heatmor,Mewtwo,♢,0.020,,
+A1 048,Heatmor,Pikachu,♢,0.020,,
+A1 048,Heatmor,Charizard,♢,0.020,,
+A1 049,Salandit,Mewtwo,♢,0.020,,
+A1 050,Salazzle,Mewtwo,♢,0.020,,
+A1 051,Sizzlipede,Mewtwo,♢,0.020,,
+A1 051,Sizzlipede,Pikachu,♢,0.020,,
+A1 051,Sizzlipede,Charizard,♢,0.020,,
+A1 052,Centiskorch,Mewtwo,♢♢,,0.026,0.017
+A1 052,Centiskorch,Pikachu,♢♢,,0.026,0.017
+A1 052,Centiskorch,Charizard,♢♢,,0.026,0.017
+A1 053,Squirtle,Pikachu,♢,0.020,,
+A1 054,Wartortle,Pikachu,♢♢,,0.026,0.017
+A1 055,Blastoise,Pikachu,♢♢♢,,0.004,0.014
+A1 056,Blastoise ex,Pikachu,♢♢♢♢,,0.003,0.013
+A1 057,Psyduck,Mewtwo,♢,0.020,,
+A1 057,Psyduck,Pikachu,♢,0.020,,
+A1 057,Psyduck,Charizard,♢,0.020,,
+A1 058,Golduck,Mewtwo,♢♢,,0.026,0.017
+A1 058,Golduck,Pikachu,♢♢,,0.026,0.017
+A1 058,Golduck,Charizard,♢♢,,0.026,0.017
+A1 059,Poliwag,Charizard,♢,0.020,,
+A1 060,Poliwhirl,Charizard,♢♢,,0.026,0.017
+A1 061,Poliwrath,Charizard,♢♢♢,,0.004,0.014
+A1 062,Tentacool,Mewtwo,♢,0.020,,
+A1 063,Tentacruel,Mewtwo,♢♢,,0.026,0.017
+A1 064,Seel,Pikachu,♢,0.020,,
+A1 065,Dewgong,Pikachu,♢♢,,0.026,0.017
+A1 066,Shellder,Mewtwo,♢,0.020,,
+A1 067,Cloyster,Mewtwo,♢♢,,0.026,0.017
+A1 068,Krabby,Mewtwo,♢,0.020,,
+A1 069,Kingler,Mewtwo,♢♢,,0.026,0.017
+A1 070,Horsea,Pikachu,♢,0.020,,
+A1 071,Seadra,Pikachu,♢♢,,0.026,0.017
+A1 072,Goldeen,Pikachu,♢,0.020,,
+A1 073,Seaking,Pikachu,♢,0.020,,
+A1 074,Staryu,Charizard,♢,0.020,,
+A1 075,Starmie,Charizard,♢♢,,0.026,0.017
+A1 076,Starmie ex,Charizard,♢♢♢♢,,0.003,0.013
+A1 077,Magikarp,Pikachu,♢,0.020,,
+A1 078,Gyarados,Pikachu,♢♢♢,,0.004,0.014
+A1 079,Lapras,Charizard,♢♢♢,,0.004,0.014
+A1 080,Vaporeon,Mewtwo,♢♢♢,,0.004,0.014
+A1 081,Omanyte,Pikachu,♢♢,,0.026,0.017
+A1 082,Omastar,Pikachu,♢♢♢,,0.004,0.014
+A1 083,Articuno,Mewtwo,♢♢♢,,0.004,0.014
+A1 084,Articuno ex,Mewtwo,♢♢♢♢,,0.003,0.013
+A1 085,Ducklett,Charizard,♢,0.020,,
+A1 086,Swanna,Charizard,♢♢,,0.026,0.017
+A1 087,Froakie,Charizard,♢,0.020,,
+A1 088,Frogadier,Charizard,♢♢,,0.026,0.017
+A1 089,Greninja,Charizard,♢♢♢,,0.004,0.014
+A1 090,Pyukumuku,Charizard,♢,0.020,,
+A1 091,Bruxish,Mewtwo,♢♢,,0.026,0.017
+A1 091,Bruxish,Pikachu,♢♢,,0.026,0.017
+A1 091,Bruxish,Charizard,♢♢,,0.026,0.017
+A1 092,Snom,Mewtwo,♢,0.020,,
+A1 092,Snom,Pikachu,♢,0.020,,
+A1 092,Snom,Charizard,♢,0.020,,
+A1 093,Frosmoth,Mewtwo,♢♢,,0.026,0.017
+A1 093,Frosmoth,Pikachu,♢♢,,0.026,0.017
+A1 093,Frosmoth,Charizard,♢♢,,0.026,0.017
+A1 094,Pikachu,Pikachu,♢,0.020,,
+A1 095,Raichu,Pikachu,♢♢♢,,0.004,0.014
+A1 096,Pikachu ex,Pikachu,♢♢♢♢,,0.003,0.013
+A1 097,Magnemite,Pikachu,♢,0.020,,
+A1 098,Magneton,Pikachu,♢♢♢,,0.004,0.014
+A1 099,Voltorb,Pikachu,♢,0.020,,
+A1 100,Electrode,Pikachu,♢♢,,0.026,0.017
+A1 101,Electabuzz,Pikachu,♢,0.020,,
+A1 102,Jolteon,Pikachu,♢♢♢,,0.004,0.014
+A1 103,Zapdos,Pikachu,♢♢♢,,0.004,0.014
+A1 104,Zapdos ex,Pikachu,♢♢♢♢,,0.003,0.013
+A1 105,Blitzle,Mewtwo,♢,0.020,,
+A1 105,Blitzle,Pikachu,♢,0.020,,
+A1 105,Blitzle,Charizard,♢,0.020,,
+A1 106,Zebstrika,Mewtwo,♢♢,,0.026,0.017
+A1 106,Zebstrika,Pikachu,♢♢,,0.026,0.017
+A1 106,Zebstrika,Charizard,♢♢,,0.026,0.017
+A1 107,Tynamo,Mewtwo,♢,0.020,,
+A1 108,Eelektrik,Mewtwo,♢♢,,0.026,0.017
+A1 109,Eelektross,Mewtwo,♢♢♢,,0.004,0.014
+A1 110,Helioptile,Mewtwo,♢,0.020,,
+A1 110,Helioptile,Pikachu,♢,0.020,,
+A1 110,Helioptile,Charizard,♢,0.020,,
+A1 111,Heliolisk,Mewtwo,♢,0.020,,
+A1 111,Heliolisk,Pikachu,♢,0.020,,
+A1 111,Heliolisk,Charizard,♢,0.020,,
+A1 112,Pincurchin,Mewtwo,♢♢,,0.026,0.017
+A1 112,Pincurchin,Pikachu,♢♢,,0.026,0.017
+A1 112,Pincurchin,Charizard,♢♢,,0.026,0.017
+A1 113,Clefairy,Pikachu,♢,0.020,,
+A1 114,Clefable,Pikachu,♢♢,,0.026,0.017
+A1 115,Abra,Charizard,♢,0.020,,
+A1 116,Kadabra,Charizard,♢♢,,0.026,0.017
+A1 117,Alakazam,Charizard,♢♢♢,,0.004,0.014
+A1 118,Slowpoke,Mewtwo,♢,0.020,,
+A1 118,Slowpoke,Pikachu,♢,0.020,,
+A1 118,Slowpoke,Charizard,♢,0.020,,
+A1 119,Slowbro,Mewtwo,♢♢,,0.026,0.017
+A1 119,Slowbro,Pikachu,♢♢,,0.026,0.017
+A1 119,Slowbro,Charizard,♢♢,,0.026,0.017
+A1 120,Gastly,Mewtwo,♢,0.020,,
+A1 121,Haunter,Mewtwo,♢♢,,0.026,0.017
+A1 122,Gengar,Mewtwo,♢♢♢,,0.004,0.014
+A1 123,Gengar ex,Mewtwo,♢♢♢♢,,0.003,0.013
+A1 124,Drowzee,Pikachu,♢,0.020,,
+A1 125,Hypno,Pikachu,♢♢♢,,0.004,0.014
+A1 126,Mr. Mime,Mewtwo,♢♢,,0.026,0.017
+A1 127,Jynx,Mewtwo,♢,0.020,,
+A1 128,Mewtwo,Mewtwo,♢♢♢,,0.004,0.014
+A1 129,Mewtwo ex,Mewtwo,♢♢♢♢,,0.003,0.013
+A1 130,Ralts,Mewtwo,♢,0.020,,
+A1 131,Kirlia,Mewtwo,♢♢,,0.026,0.017
+A1 132,Gardevoir,Mewtwo,♢♢♢,,0.004,0.014
+A1 133,Woobat,Mewtwo,♢,0.020,,
+A1 133,Woobat,Pikachu,♢,0.020,,
+A1 133,Woobat,Charizard,♢,0.020,,
+A1 134,Swoobat,Mewtwo,♢,0.020,,
+A1 134,Swoobat,Pikachu,♢,0.020,,
+A1 134,Swoobat,Charizard,♢,0.020,,
+A1 135,Golett,Mewtwo,♢,0.020,,
+A1 135,Golett,Pikachu,♢,0.020,,
+A1 135,Golett,Charizard,♢,0.020,,
+A1 136,Golurk,Mewtwo,♢♢,,0.026,0.017
+A1 136,Golurk,Pikachu,♢♢,,0.026,0.017
+A1 136,Golurk,Charizard,♢♢,,0.026,0.017
+A1 137,Sandshrew,Mewtwo,♢,0.020,,
+A1 137,Sandshrew,Pikachu,♢,0.020,,
+A1 137,Sandshrew,Charizard,♢,0.020,,
+A1 138,Sandslash,Mewtwo,♢♢,,0.026,0.017
+A1 138,Sandslash,Pikachu,♢♢,,0.026,0.017
+A1 138,Sandslash,Charizard,♢♢,,0.026,0.017
+A1 139,Diglett,Pikachu,♢,0.020,,
+A1 140,Dugtrio,Pikachu,♢♢,,0.026,0.017
+A1 141,Mankey,Charizard,♢,0.020,,
+A1 142,Primeape,Charizard,♢♢,,0.026,0.017
+A1 143,Machop,Charizard,♢,0.020,,
+A1 144,Machoke,Charizard,♢♢,,0.026,0.017
+A1 145,Machamp,Charizard,♢♢♢,,0.004,0.014
+A1 146,Machamp ex,Charizard,♢♢♢♢,,0.003,0.013
+A1 147,Geodude,Pikachu,♢,0.020,,
+A1 148,Graveler,Pikachu,♢♢,,0.026,0.017
+A1 149,Golem,Pikachu,♢♢♢,,0.004,0.014
+A1 150,Onix,Pikachu,♢♢,,0.026,0.017
+A1 151,Cubone,Mewtwo,♢,0.020,,
+A1 152,Marowak,Mewtwo,♢♢,,0.026,0.017
+A1 153,Marowak ex,Mewtwo,♢♢♢♢,,0.003,0.013
+A1 154,Hitmonlee,Mewtwo,♢,0.020,,
+A1 155,Hitmonchan,Charizard,♢,0.020,,
+A1 156,Rhyhorn,Mewtwo,♢,0.020,,
+A1 157,Rhydon,Mewtwo,♢♢,,0.026,0.017
+A1 158,Kabuto,Charizard,♢♢,,0.026,0.017
+A1 159,Kabutops,Charizard,♢♢♢,,0.004,0.014
+A1 160,Mienfoo,Pikachu,♢,0.020,,
+A1 161,Mienshao,Pikachu,♢♢,,0.026,0.017
+A1 162,Clobbopus,Pikachu,♢,0.020,,
+A1 162,Clobbopus,Charizard,♢,0.020,,
+A1 162,Clobbopus,Mewtwo,♢,0.020,,
+A1 163,Grapploct,Pikachu,♢♢,,0.026,0.017
+A1 163,Grapploct,Charizard,♢♢,,0.026,0.017
+A1 163,Grapploct,Mewtwo,♢♢,,0.026,0.017
+A1 164,Ekans,Pikachu,♢,0.020,,
+A1 164,Ekans,Charizard,♢,0.020,,
+A1 164,Ekans,Mewtwo,♢,0.020,,
+A1 165,Arbok,Pikachu,♢♢,,0.026,0.017
+A1 165,Arbok,Charizard,♢♢,,0.026,0.017
+A1 165,Arbok,Mewtwo,♢♢,,0.026,0.017
+A1 166,Nidoran♀,Pikachu,♢,0.020,,
+A1 167,Nidorina,Pikachu,♢♢,,0.026,0.017
+A1 168,Nidoqueen,Pikachu,♢♢♢,,0.004,0.014
+A1 169,Nidoran♂,Pikachu,♢,0.020,,
+A1 170,Nidorino,Pikachu,♢♢,,0.026,0.017
+A1 171,Nidoking,Pikachu,♢♢♢,,0.004,0.014
+A1 172,Zubat,Mewtwo,♢,0.020,,
+A1 173,Golbat,Mewtwo,♢♢,,0.026,0.017
+A1 174,Grimer,Mewtwo,♢,0.020,,
+A1 175,Muk,Mewtwo,♢♢♢,,0.004,0.014
+A1 176,Koffing,Mewtwo,♢,0.020,,
+A1 177,Weezing,Mewtwo,♢♢♢,,0.004,0.014
+A1 178,Mawile,Charizard,♢,0.020,,
+A1 179,Pawniard,Mewtwo,♢,0.020,,
+A1 179,Pawniard,Pikachu,♢,0.020,,
+A1 179,Pawniard,Charizard,♢,0.020,,
+A1 180,Bisharp,Mewtwo,♢♢,,0.026,0.017
+A1 180,Bisharp,Pikachu,♢♢,,0.026,0.017
+A1 180,Bisharp,Charizard,♢♢,,0.026,0.017
+A1 181,Meltan,Charizard,♢,0.020,,
+A1 182,Melmetal,Charizard,♢♢♢,,0.004,0.014
+A1 183,Dratini,Mewtwo,♢,0.020,,
+A1 184,Dragonair,Mewtwo,♢♢,,0.026,0.017
+A1 185,Dragonite,Mewtwo,♢♢♢,,0.004,0.014
+A1 186,Pidgey,Mewtwo,♢,0.020,,
+A1 187,Pidgeotto,Mewtwo,♢,0.020,,
+A1 188,Pidgeot,Mewtwo,♢♢♢,,0.004,0.014
+A1 189,Rattata,Mewtwo,♢,0.020,,
+A1 189,Rattata,Pikachu,♢,0.020,,
+A1 189,Rattata,Charizard,♢,0.020,,
+A1 190,Raticate,Mewtwo,♢,0.020,,
+A1 190,Raticate,Pikachu,♢,0.020,,
+A1 190,Raticate,Charizard,♢,0.020,,
+A1 191,Spearow,Charizard,♢,0.020,,
+A1 192,Fearow,Charizard,♢,0.020,,
+A1 193,Jigglypuff,Pikachu,♢,0.020,,
+A1 194,Wigglytuff,Pikachu,♢,0.020,,
+A1 195,Wigglytuff ex,Pikachu,♢♢♢♢,,0.003,0.013
+A1 196,Meowth,Charizard,♢,0.020,,
+A1 197,Persian,Charizard,♢♢,,0.026,0.017
+A1 198,Farfetch'd,Mewtwo,♢,0.020,,
+A1 198,Farfetch'd,Pikachu,♢,0.020,,
+A1 198,Farfetch'd,Charizard,♢,0.020,,
+A1 199,Doduo,Mewtwo,♢,0.020,,
+A1 199,Doduo,Pikachu,♢,0.020,,
+A1 199,Doduo,Charizard,♢,0.020,,
+A1 200,Dodrio,Mewtwo,♢♢,,0.026,0.017
+A1 200,Dodrio,Pikachu,♢♢,,0.026,0.017
+A1 200,Dodrio,Charizard,♢♢,,0.026,0.017
+A1 201,Lickitung,Mewtwo,♢♢,,0.026,0.017
+A1 202,Chansey,Pikachu,♢♢,,0.026,0.017
+A1 203,Kangaskhan,Charizard,♢♢♢,,0.004,0.014
+A1 204,Tauros,Charizard,♢♢,,0.026,0.017
+A1 205,Ditto,Mewtwo,♢♢♢,,0.004,0.014
+A1 206,Eevee,Charizard,♢,0.020,,
+A1 207,Eevee,Mewtwo,♢,0.020,,
+A1 208,Eevee,Pikachu,♢,0.020,,
+A1 209,Porygon,Mewtwo,♢♢,,0.026,0.017
+A1 210,Aerodactyl,Mewtwo,♢♢♢,,0.004,0.014
+A1 211,Snorlax,Pikachu,♢♢♢,,0.004,0.014
+A1 212,Minccino,Mewtwo,♢,0.020,,
+A1 213,Minccino,Pikachu,♢,0.020,,
+A1 214,Minccino,Charizard,♢,0.020,,
+A1 213,Cinccino,Mewtwo,♢♢,,0.026,0.017
+A1 214,Cinccino,Pikachu,♢♢,,0.026,0.017
+A1 215,Cinccino,Charizard,♢♢,,0.026,0.017
+A1 214,Wooloo,Mewtwo,♢,0.020,,
+A1 215,Wooloo,Pikachu,♢,0.020,,
+A1 216,Wooloo,Charizard,♢,0.020,,
+A1 215,Dubwool,Mewtwo,♢,0.020,,
+A1 216,Dubwool,Pikachu,♢,0.020,,
+A1 217,Dubwool,Charizard,♢,0.020,,
+A1 216,Helix Fossil,Pikachu,♢,0.020,,
+A1 217,Dome Fossil,Charizard,♢,0.020,,
+A1 218,Old Amber,Mewtwo,♢,0.020,,
+A1 219,Erika,Charizard,♢♢,,0.026,0.017
+A1 220,Misty,Pikachu,♢♢,,0.026,0.017
+A1 221,Blaine,Charizard,♢♢,,0.026,0.017
+A1 222,Koga,Mewtwo,♢♢,,0.026,0.017
+A1 223,Giovanni,Mewtwo,♢♢,,0.026,0.017
+A1 224,Brock,Pikachu,♢♢,,0.026,0.017
+A1 225,Sabrina,Charizard,♢♢,,0.026,0.017
+A1 226,Lt. Surge,Pikachu,♢♢,,0.026,0.017
+A1 227,Bulbasaur alt art,Mewtwo,☆,,0.003,0.013
+A1 228,Gloom alt art,Charizard,☆,,0.003,0.013
+A1 229,Pinsir alt art,Charizard,☆,,0.003,0.013
+A1 230,Charmander alt art,Charizard,☆,,0.003,0.013
+A1 231,Rapidash alt art,Charizard,☆,,0.003,0.013
+A1 232,Squirtle alt art,Pikachu,☆,,0.003,0.013
+A1 233,Gyarados alt art,Pikachu,☆,,0.003,0.013
+A1 234,Lapras alt art,Charizard,☆,,0.003,0.013
+A1 235,Electrode alt art,Pikachu,☆,,0.003,0.013
+A1 236,Alakazam alt art,Charizard,☆,,0.003,0.013
+A1 237,Slowpoke alt art,Charizard,☆,,0.003,0.013
+A1 238,Diglett alt art,Pikachu,☆,,0.003,0.013
+A1 239,Cubone alt art,Mewtwo,☆,,0.003,0.013
+A1 240,Nidoqueen alt art,Pikachu,☆,,0.003,0.013
+A1 241,Nidoking alt art,Pikachu,☆,,0.003,0.013
+A1 242,Golbat alt art,Mewtwo,☆,,0.003,0.013
+A1 243,Weezing alt art,Mewtwo,☆,,0.003,0.013
+A1 244,Dragonite alt art,Mewtwo,☆,,0.003,0.013
+A1 245,Pidgeot alt art,Mewtwo,☆,,0.003,0.013
+A1 246,Meowth alt art,Charizard,☆,,0.003,0.013
+A1 247,Ditto alt art,Mewtwo,☆,,0.003,0.013
+A1 248,Eevee alt art,Pikachu,☆,,0.003,0.013
+A1 249,Porygon alt art,Mewtwo,☆,,0.003,0.013
+A1 250,Snorlax alt art,Pikachu,☆,,0.003,0.013
+A1 251,Venusaur ex,Mewtwo,☆☆,,0.001,0.002
+A1 252,Exeggutor ex,Charizard,☆☆,,0.001,0.002
+A1 253,Charizard ex,Charizard,☆☆,,0.001,0.002
+A1 254,Arcanine ex,Pikachu,☆☆,,0.001,0.002
+A1 255,Moltres ex,Charizard,☆☆,,0.001,0.002
+A1 256,Blastoise ex,Pikachu,☆☆,,0.001,0.002
+A1 257,Starmie ex,Charizard,☆☆,,0.001,0.002
+A1 258,Articuno ex,Mewtwo,☆☆,,0.001,0.002
+A1 259,Pikachu ex,Pikachu,☆☆,,0.001,0.002
+A1 260,Zapdos ex,Pikachu,☆☆,,0.001,0.002
+A1 261,Gengar ex full art,Mewtwo,☆☆,,0.001,0.002
+A1 262,Mewtwo ex,Mewtwo,☆☆,,0.001,0.002
+A1 263,Machamp ex,Charizard,☆☆,,0.001,0.002
+A1 264,Marowak ex,Mewtwo,☆☆,,0.001,0.002
+A1 265,Wigglytuff ex,Pikachu,☆☆,,0.001,0.002
+A1 266,"Erika, alt art",Charizard,☆☆,,0.001,0.002
+A1 267,"Misty, alt art",Pikachu,☆☆,,0.001,0.002
+A1 268,"Blaine, alt art",Charizard,☆☆,,0.001,0.002
+A1 269,"Koga, alt art",Mewtwo,☆☆,,0.001,0.002
+A1 270,"Giovanni, alt art",Mewtwo,☆☆,,0.001,0.002
+A1 271,"Brock, alt art",Pikachu,☆☆,,0.001,0.002
+A1 272,"Sabrina, alt art",Charizard,☆☆,,0.001,0.002
+A1 273,"Lt. Surge, alt art",Pikachu,☆☆,,0.001,0.002
+A1 274,Moltres ex,Charizard,☆☆,,0.001,0.002
+A1 275,Articuno ex,Mewtwo,☆☆,,0.001,0.002
+A1 276,Zapdos ex,Pikachu,☆☆,,0.001,0.002
+A1 277,Gengar ex alt art,Mewtwo,☆☆,,0.001,0.002
+A1 278,Machamp ex,Charizard,☆☆,,0.001,0.002
+A1 279,Wigglytuff ex,Pikachu,☆☆,,0.001,0.002
+A1 280,Charizard ex,Charizard,☆☆☆,,0.002,0.009
+A1 281,Pikachu ex,Pikachu,☆☆☆,,0.002,0.009
+A1 282,Mewtwo ex,Mewtwo,☆☆☆,,0.002,0.009
+A1 284,Charizard ex,Mewtwo,♛,,0.000,0.001
+A1 284,Charizard ex,Pikachu,♛,,0.000,0.001
+A1 284,Charizard ex,Charizard,♛,,0.000,0.001
+A1 285,Pikachu ex,Mewtwo,♛,,0.000,0.001
+A1 285,Pikachu ex,Pikachu,♛,,0.000,0.001
+A1 285,Pikachu ex,Charizard,♛,,0.000,0.001
+A1 286,Mewtwo ex,Mewtwo,♛,,0.000,0.001
+A1 286,Mewtwo ex,Pikachu,♛,,0.000,0.001
+A1 286,Mewtwo ex,Charizard,♛,,0.000,0.001
