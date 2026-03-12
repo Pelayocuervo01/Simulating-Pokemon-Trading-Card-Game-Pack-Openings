@@ -21,10 +21,6 @@ The project uses pandas DataFrames to store card data and simulates pack opening
 3. Observe the progress and results displayed during the simulation.
 4. **To reset your collection and start a new simulation, execute the `reset()` function.** 
 
-## Disclaimer
-
-This project is purely for entertainment and educational purposes. It does not offer real-world purchasing or trading functionality.
-
 ## Contributing
 
 Feel free to fork the repository and contribute enhancements or bug fixes. Pull requests are welcome!
